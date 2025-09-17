@@ -12,6 +12,7 @@
 ## Технические навыки
 
 - **Programming:** Python, C (базовый уровень)
+- **Databases:** SQL
 - **DS/ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, классические алгоритмы
 - **Robotics & Hardware:** Arduino (сборка и программирование AlphaBot)
 - **Systems & Tools:** Linux (терминал, shell-скрипты), Git (контроль версий)
