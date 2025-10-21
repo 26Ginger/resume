@@ -13,44 +13,44 @@
 * **ML 1** - в процессе  
 * **Титаник модель выживания** - в процессе
 * **Вино анализ** - в процессе
-* **SQL Bootcamp** - ✅ завершено (10+ проектов)
+* **SQL Bootcamp** - ✅ завершено (12 проектов)
 * **C матрицы** - ✅ завершено
 
 ----
 
-## 🗃️ SQL Bootcamp ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) ![Progress](https://img.shields.io/badge/progress-100%25-brightgreen)
+## SQL Bootcamp ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) ![Progress](https://img.shields.io/badge/progress-100%25-brightgreen)
 
 **🔗 [Перейти к проектам](https://github.com/26Ginger/SQL_BootCamp)** | **[⬆ Наверх](#нина-будуховская---portfolio)**
 
 ### 📝 Описание
 
-Полный курс по SQL и реляционным базам данных, охватывающий все аспекты - от основ до продвинутых тем анализа данных и оптимизации.
+Курс по SQL и реляционным базам данных, охватывающий все аспекты - от основ до продвинутых тем анализа данных и оптимизации.
 
 ### 📊 Детализация проектов
 
 <details>
 <summary><strong>🔍 Основы SQL (Day 00-02)</strong></summary>
 
-- **[Day 00](https://github.com/26Ginger/SQL_BootCamp/tree/main/day00)** - Базовые конструкции, фильтрация, сортировка
-- **[Day 01](https://github.com/26Ginger/SQL_BootCamp/tree/main/day01)** - Множества и JOIN операции  
-- **[Day 02](https://github.com/26Ginger/SQL_BootCamp/tree/main/day02)** - Продвинутые JOIN, CTE
+- **[Day 00](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day00-1)** - Базовые конструкции, фильтрация, сортировка
+- **[Day 01](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day01-1)** - Множества и JOIN операции  
+- **[Day 02](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day02-1)** - Продвинутые JOIN, CTE
 </details>
 
 <details>
 <summary><strong>⚙️ Продвинутый SQL (Day 03-05)</strong></summary>
 
-- **[Day 03](https://github.com/26Ginger/SQL_BootCamp/tree/main/day03)** - DML операции, модификация данных
-- **[Day 04](https://github.com/26Ginger/SQL_BootCamp/tree/main/day04)** - Представления, материализованные view
-- **[Day 05](https://github.com/26Ginger/SQL_BootCamp/tree/main/day05)** - Индексы, оптимизация производительности
+- **[Day 03](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day03-1)** - DML операции, модификация данных
+- **[Day 04](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day04-1)** - Представления, материализованные view
+- **[Day 05](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day05-1)** - Индексы, оптимизация производительности
 </details>
 
 <details>
 <summary><strong>📈 Аналитика и управление (Day 06-09)</strong></summary>
 
-- **[Day 06](https://github.com/26Ginger/SQL_BootCamp/tree/main/day06)** - Расширение моделей, бизнес-логика
-- **[Day 07](https://github.com/26Ginger/SQL_BootCamp/tree/main/day07)** - OLAP, агрегация, оконные функции
-- **[Day 08](https://github.com/26Ginger/SQL_BootCamp/tree/main/day08)** - Транзакции, изоляция, блокировки
-- **[Day 09](https://github.com/26Ginger/SQL_BootCamp/tree/main/day09)** - Функции, триггеры, процедуры
+- **[Day 06](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day06-1)** - Расширение моделей, бизнес-логика
+- **[Day 07](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day07-1)** - OLAP, агрегация, оконные функции
+- **[Day 08](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day08-1)** - Транзакции, изоляция, блокировки
+- **[Day 09](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Day09-1)** - Функции, триггеры, процедуры
 </details>
 
 <details>
