@@ -56,8 +56,8 @@
 <details>
 <summary><strong>👥 Групповые проекты</strong></summary>
 
-- **[Team 00](https://github.com/26Ginger/SQL_BootCamp/tree/main/team00)** - Задача коммивояжера (TSP)
-- **[Team 01](https://github.com/26Ginger/SQL_BootCamp/tree/main/team01)** - Data Warehouse, ETL процессы
+- **[Team 00](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Team_00-1)** - Задача коммивояжера (TSP)
+- **[Team 01](https://github.com/26Ginger/SQL_BootCamp/tree/main/SQL_beginner.Team_01-2)** - Data Warehouse, ETL процессы
 </details>
 
 ### 🛠 Приобретенные навыки
