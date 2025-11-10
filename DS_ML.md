@@ -1,5 +1,5 @@
 # Нина Будуховская
-**Начинающий специалист в области DS/ML**
+**Data Scientist / ML Engineer**
 
 Telegram: @rizhaja | Тел.: +7 (985) 727-16-92 | Email: nina.gorshkova26@gmail.com
 
