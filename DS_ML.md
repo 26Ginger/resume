@@ -9,11 +9,11 @@ Data Scientist / ML Engineer с 10+ летним опытом продакт-м�
 
 ## Технические навыки
 
-**Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, C (basic)
-**ML/DL:** Classical ML, Ensembles, Neural Networks (PyTorch), Computer Vision
-**MLOps:** Docker, Git, Linux, CUDA
-**Databases:** PostgreSQL, ETL, Query Optimization
-**Data Analysis:** EDA, Statistical Analysis, A/B Testing, Feature Engineering
+**Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, C (basic)  
+**ML/DL:** Classical ML, Ensembles, Neural Networks (PyTorch)  
+**MLOps:** Docker, Git, Linux, CUDA  
+**Databases:** PostgreSQL, ETL, Query Optimization  
+**Data Analysis:** EDA, Statistical Analysis, A/B Testing, Feature Engineering  
 
 ### 10.2022 – 07.2024, проект БизТВ (EdTech) — Data analyst (Аналитик данных)
 
