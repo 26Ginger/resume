@@ -52,8 +52,6 @@ Telegram: @rizhaja | Тел.: +7 (985) 727-16-92 | Email: nina.gorshkova26@gmail
 
 ## Проекты
 
-## Проекты
-
 ### [Анализ рынка вина](https://github.com/26Ginger/wine-reviews/blob/main/notebooks/02_EDA_Analysis.ipynb)
 **Выявление факторов цены и качества**  
 **Стек:** Python, Pandas, Seaborn, статистический анализ
