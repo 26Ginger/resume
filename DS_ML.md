@@ -9,7 +9,7 @@ Data Scientist / ML Engineer с 10+ летним опытом продакт-м�
 
 ## Технические навыки
 
-**Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, C (basic)  
+**Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL
 **ML/DL:** Classical ML, Ensembles, Neural Networks (PyTorch)  
 **MLOps:** Docker, Git, Linux, CUDA  
 **Databases:** PostgreSQL, ETL, Query Optimization  
